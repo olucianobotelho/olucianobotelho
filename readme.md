@@ -3,12 +3,14 @@
 Oi, me chamo Luciano botelho e sou desenvolvedor Front end.
 </div>
 <!-- Ta vindo fuxicar meu readme porque? kk -->
-
+<br>
 <div align="center">
   <a href="https://github.com/olucianobotelho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=olucianobotelho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olucianobotelho&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
+  <br>
 <div align="center"  style="display: inline_block" ><br>
   <img align="center" alt="Luciano Está estudando Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
@@ -18,7 +20,7 @@ Oi, me chamo Luciano botelho e sou desenvolvedor Front end.
 </div>
   
   <!-- Sai do meu readme por gentileza? -->
- 
+ <br>
 <div align="center"> 
   
   <a href = "mailto:lucianopaiva.lpb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
