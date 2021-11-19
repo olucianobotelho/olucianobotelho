@@ -1,6 +1,7 @@
 
+<div align="center">
 Oi, me chamo Luciano botelho e sou desenvolvedor Front end.
-
+</div>
 <!-- Ta vindo fuxicar meu readme porque? kk -->
 
 <div align="center">
