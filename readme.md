@@ -20,7 +20,7 @@ Oi, me chamo Luciano botelho e sou desenvolvedor Front end.
 </div>
   <br>
   <div align="center">
-Oi, Seja Bem vindo ao meu github, então eu tenho estudado bastante Javascript nos ultimos 2 meses, mas eu já tenho contato com css e html há uns 8 meses. Sempre fui apaixonado por engenharia social e marketing de vendas e amo abusar disso nos meus projetos. Caso tenha alguma sugestão, duvida ou até mesmo ajuda, não hesite em me chamar :D
+Oi, Seja Bem vindo ao meu github, então eu tenho estudado bastante Javascript nos ultimos 2 meses, mas eu já tenho contato com css e html há uns 8 meses. Sempre fui apaixonado por engenharia social e marketing de vendas e amo abusar disso nos meus projetos. Caso tenha alguma sugestão, duvida ou até mesmo ajuda, não hesite em me chamar :smile:
 </div>
   <!-- Sai do meu readme por gentileza? -->
  <br>
