@@ -18,7 +18,10 @@ Oi, me chamo Luciano botelho e sou desenvolvedor Front end.
   <img align="center" alt="O luciano se recusa a dizer que sabe css toda vez que estuda css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
 </div>
-  
+  <br>
+  <div align="center">
+Oi, Seja Bem vindo ao meu github, então eu tenho estudado bastante Javascript nos ultimos 2 meses, mas eu já tenho contato com css e html há uns 8 meses. Sempre fui apaixonado por engenharia social e marketing de vendas e amo abusar disso nos meus projetos. Caso tenha alguma sugestão, duvida ou até mesmo ajuda, não hesite em me chamar :D
+</div>
   <!-- Sai do meu readme por gentileza? -->
  <br>
 <div align="center"> 
