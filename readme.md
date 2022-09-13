@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, me chamo Luciano Botelho</h1>
+<h1 align="center">Oi sou Desenvolvedor Frontend e me chamo Luciano Botelho</h1>
 <h3 align="center">Diretamente do Rio de janeiro para Web</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olucianobotelho&label=Profile%20views&color=0e75b6&style=flat" alt="olucianobotelho" /> </p>
