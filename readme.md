@@ -13,7 +13,7 @@
 
 - 🤝 Eu preciso de ajuda aqui [Robô de Ponto](https://github.com/olucianobotelho/RoboDePonto)
 
-- 👨‍💻 Todos os meus projetos estão aqui no GitHub [https://github.com/olucianobotelho](https://github.com/olucianobotelho)
+- 👨‍💻 Todos os meus projetos estão aqui no GitHub [https://github.com/olucianobotelho?tab=repositories](https://github.com/olucianobotelho?tab=repositories)
 
 - 💬 Vamos conversar sobre **React, node e React Native**
 
