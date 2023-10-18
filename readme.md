@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olucianobotelho&label=Profile%20views&color=0e75b6&style=flat" alt="olucianobotelho" /> </p>
 
-<p align="left"> <a href="https://twitter.com/eilibertario" target="blank"><img src="https://img.shields.io/twitter/follow/eilibertario?logo=twitter&style=for-the-badge" alt="eilibertario" /></a> </p>
 
-- 🔭 Atualmente estou trabalhando no [Conecta Ramais](https://github.com/olucianobotelho/ConectaRamais)
+
+
 
 - 🌱 No momento estou estudando **React/Native, Node e tailwind**
 
 - 👯 Meu ultimo trabalho colaborativo foi esse aqui [Hacking Rio 79](https://github.com/hackingrio/hackingrio-2022-ods-4-desafio-sebrae-rj-hacking-79)
-
-- 🤝 Eu preciso de ajuda aqui [Robô de Ponto](https://github.com/olucianobotelho/RoboDePonto)
 
 - 👨‍💻 Todos os meus projetos estão aqui no GitHub [https://github.com/olucianobotelho?tab=repositories](https://github.com/olucianobotelho?tab=repositories)
 
