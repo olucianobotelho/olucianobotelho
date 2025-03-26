@@ -1,34 +1,50 @@
-<h1 align="center">Oi sou Desenvolvedor Frontend e me chamo Luciano Botelho</h1>
-<h3 align="center">Diretamente do Rio de janeiro para Web</h3>
+🌑 Welcome to the Twilight Zone of Development 🌑
+<div align="center"> <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" /> </div>
+🧛‍♂️ Who Dares Enter My Realm?
+Greetings, mortal! I'm the unholy union of a fullstack developer, marketing wizard, and sales sorcerer. Think Dr. Strange meets Don Draper, with a dash of Loki's mischief.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=olucianobotelho&label=Profile%20views&color=0e75b6&style=flat" alt="olucianobotelho" /> </p>
+<div align="center"> <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="200" /> </div>
+🕸️ My Web of Skills
+🖥️ Frontend Sorcery
+React.js (because I enjoy living on the edge of a render)
 
+Vue.js (for when I'm feeling particularly green)
 
+CSS (I make layouts so flexible, contortionists get jealous)
 
+🏗️ Backend Necromancy
+Node.js (I raise dead servers like it's nobody's business)
 
+Python (my code is so slick, it slithers)
 
-- 🌱 No momento estou estudando **React/Native, Node e tailwind**
+Ruby on Rails (for when I need to conjure MVPs from thin air)
 
-- 👯 Meu ultimo trabalho colaborativo foi esse aqui [Hacking Rio 79](https://github.com/hackingrio/hackingrio-2022-ods-4-desafio-sebrae-rj-hacking-79)
+🧠 Database Black Magic
+MongoDB (where I store the souls of abandoned projects)
 
-- 👨‍💻 Todos os meus projetos estão aqui no GitHub [https://github.com/olucianobotelho?tab=repositories](https://github.com/olucianobotelho?tab=repositories)
+PostgreSQL (because sometimes, structure is necessary evil)
 
-- 💬 Vamos conversar sobre **React, node e React Native**
+<div align="center"> <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="250" /> </div>
+🎭 Marketing & Sales Dark Arts
+SEO (I whisper to Google, and it listens)
 
-- 📫 Você pode falar comigo por e-mail **lucianopaiva.lpb@gmail.com**
+Content Marketing (my words are more addictive than caffeine)
 
-- ⚡ Uma curiosidade sobre mim **Sou Apaixonado por marketing!**
+Direct Sales (I could sell a comb to Lex Luthor)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/eibotelhocrvg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eibotelhocrvg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in//lucianopaivabotelho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/lucianopaivabotelho" height="30" width="40" /></a>
-<a href="https://instagram.com/@eibotelho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@eibotelho" height="30" width="40" /></a>
-</p>
+Social Media Wizardry (I make things go viral faster than you can say "pandemic")
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<div align="center"> <img src="https://media.giphy.com/media/3oKIPa2TdahY8LAAxy/giphy.gif" width="250" /> </div>
+🌚 The Dark Side of My Personality
+I debug with the patience of a saint... on espresso
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olucianobotelho&show_icons=true&locale=en&layout=compact" alt="olucianobotelho" /></p>
+My code comments are where comedy goes to die
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olucianobotelho&show_icons=true&locale=en" alt="olucianobotelho" /></p>
+I believe sleep is for the weak (and well-adjusted)
+
+I have a love-hate relationship with Stack Overflow (mostly hate when it's down)
+
+<div align="center"> <img src="https://media.giphy.com/media/l0HlGmv4WqldO9c5y/giphy.gif" width="300" /> </div>
+Remember, in the world of code, there are no mistakes, only "unexpected features." Now, if you'll excuse me, I have some APIs to terrorize and databases to corrupt.
+
+<div align="center"> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="350" /> </div>
